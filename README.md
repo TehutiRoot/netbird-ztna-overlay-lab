@@ -24,6 +24,17 @@ Initial tests used a home‑hosted Linux box as the NetBird server, behind pfSen
 While functional, it suffered from power cuts, consumer‑grade ISP issues and limited upstream bandwidth.  
 Migrating the management plane to OCI solved these problems and turned the home network into just another secure edge node.
 
+## Related Projects in this Series
+
+## Related Projects in this Series
+
+- **Digital Raid Lab – WireGuard & pfSense**  
+  WireGuard + pfSense + OCI lab for exposing services behind CGNAT using encrypted tunnels and port-forwarding with full network-forensics workflows.  
+  Repo: https://github.com/TehutiRoot/digital-raid-lab-wireguard-pfsense
+
+
+
+
 ## Repository Layout (planned)
 
 - `docs/` – Setup guides for Debian VM, NetBird installation, pfSense routing peer, and Cloudflare integration.  
